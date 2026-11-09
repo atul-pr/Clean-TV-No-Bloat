@@ -1,0 +1,33 @@
+=== ADB DEVICES ===
+List of devices attached
+10.110.207.17:5555	device
+
+=== CURRENT HOME LAUNCHER (cmd package resolve-activity -a android.intent.action.MAIN -c android.intent.category.HOME) ===
+priority=2 preferredOrder=0 match=0x108000 specificIndex=-1 isDefault=true
+Package: com.google.android.apps.tv.launcherx
+Activity: com.google.android.apps.tv.launcherx.home.HomeActivity
+
+=== DISABLED PACKAGES (pm list packages -d) ===
+package:com.android.ondevicepersonalization.services
+package:com.smartdevice.recommendation
+package:com.android.adservices.api
+package:com.google.android.youtube.tvmusic
+package:com.android.federatedcompute.services
+package:com.Smartdevice.emanual
+package:com.android.tv.feedbackconsent
+package:com.netflix.ninja
+package:com.google.android.feedback
+package:com.smartdevice.aftersale
+package:com.mediatek.wwtv.tvcenter.plus
+package:com.smartdevice.recordactivation
+package:com.google.android.tungsten.setupwraith
+package:com.google.android.play.games
+package:com.smartdevice.dailymanage
+package:com.smartdevice.dailyshortcut
+package:com.amazon.amazonvideo.livingroom
+
+=== USER-INSTALLED PACKAGES (pm list packages -3) ===
+package:com.yablio.sendfilestotv
+package:com.tcl.browser
+package:com.rs.explorer.filemanager
+package:com.ludo.king.tv

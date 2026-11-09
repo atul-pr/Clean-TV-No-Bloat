@@ -1,0 +1,15 @@
+package:com.android.ondevicepersonalization.services
+package:com.smartdevice.recommendation
+package:com.android.adservices.api
+package:com.google.android.youtube.tvmusic
+package:com.android.federatedcompute.services
+package:com.Smartdevice.emanual
+package:com.android.tv.feedbackconsent
+package:com.netflix.ninja
+package:com.google.android.feedback
+package:com.smartdevice.aftersale
+package:com.mediatek.wwtv.tvcenter.plus
+package:com.smartdevice.recordactivation
+package:com.smartdevice.myapp
+package:com.smartdevice.dailymanage
+package:com.smartdevice.dailyshortcut
